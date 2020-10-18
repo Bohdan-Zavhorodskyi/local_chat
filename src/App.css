@@ -12,9 +12,6 @@
 .chat__messages {
   height: calc(100vh - 13vh);
   overflow-y: auto;
-}
-
-.chat__messages {
   word-break: break-all;
 }
 

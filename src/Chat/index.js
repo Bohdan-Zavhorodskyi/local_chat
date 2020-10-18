@@ -21,7 +21,7 @@ const Chat = ({ name, setMessages, messages }) => {
             <div>
               {messages.user}
             </div>
-            <div className='chat_message'>
+            <div>
               {messages.message}
             </div>
             <div>
